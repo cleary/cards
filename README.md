@@ -1,4 +1,4 @@
-## Cards 1.0.2 by Jason Schuller (Jason.sc)
+## Cards v1.0.2 by Jason Schuller (Jason.sc)
 - Copyright Circa75 Media, LLC (Circa75.co)
 
 ## License
