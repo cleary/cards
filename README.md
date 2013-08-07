@@ -9,10 +9,10 @@
 - Contact "help@dropplets.com".
 
 ### Version 1.0.2
-- FIXED: Profile image position in Chrome on initial load.
+- **FIXED**: Profile image position in Chrome on initial load.
 
 ### Version 1.0.1
-- FIXED: Firefox permalink bug.
+- **FIXED**: Firefox permalink bug.
 
 ### Version 1.0.0
-- NEW: Initial release.
+- **NEW**: Initial release.
