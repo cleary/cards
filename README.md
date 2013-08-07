@@ -1,18 +1,17 @@
 ## Cards v1.0.2 by Jason Schuller (Jason.sc)
-- Copyright Circa75 Media, LLC (Circa75.co)
+Copyright Circa75 Media, LLC (Circa75.co)
 
-## License
-- Creative Commons - CC BY-NC
-- http://creativecommons.org/licenses/by-nc/3.0/legalcode
+### License
+[Creative Commons - CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/legalcode)
 
-## Need Help?
-- Contact "help@dropplets.com".
+### Need Help?
+Help is an email away... help@dropplets.com.
 
-### Version 1.0.2
+#### Version 1.0.2
 - **FIXED**: Profile image position in Chrome on initial load.
 
-### Version 1.0.1
+#### Version 1.0.1
 - **FIXED**: Firefox permalink bug.
 
-### Version 1.0.0
+#### Version 1.0.0
 - **NEW**: Initial release.
