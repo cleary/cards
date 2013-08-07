@@ -8,11 +8,11 @@
 ## Need Help?
 - Contact "help@dropplets.com".
 
-## Version 1.0.2
+### Version 1.0.2
 - FIXED: Profile image position in Chrome on initial load.
 
-## Version 1.0.1
+### Version 1.0.1
 - FIXED: Firefox permalink bug.
 
-## Version 1.0.0
+### Version 1.0.0
 - NEW: Initial release.
