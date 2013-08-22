@@ -5,7 +5,7 @@ Copyright Circa75 Media, LLC (Circa75.co)
 [Creative Commons - CC BY-NC](http://creativecommons.org/licenses/by-nc/3.0/legalcode)
 
 ### Need Help?
-Help is an email away... help@dropplets.com.
+Help is just an email away... help@dropplets.com.
 
 #### Version 1.0.2
 - **FIXED**: Profile image position in Chrome on initial load.
