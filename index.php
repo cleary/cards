@@ -26,11 +26,11 @@
             
             <?php if($is_home) { ?>
             <div class="profile-image">
-                <img src="<?php echo get_twitter_profile_img($blog_twitter); ?>" alt="<?php echo($blog_title); ?>" />
+                <img src="<?php echo($template_dir_url); ?>images/logo_256.png" alt="<?php echo($blog_title); ?>" />
             </div>
             <?php } else { ?>
             <a class="profile-image" href="<?php echo($blog_url); ?>" title="<?php echo($blog_name); ?>">
-                <img src="<?php echo get_twitter_profile_img($blog_twitter); ?>" alt="<?php echo($blog_title); ?>" />
+                <img src="<?php echo($template_dir_url); ?>images/logo_256.png" alt="<?php echo($blog_title); ?>" />
             </a>
             <?php } ?>
             
