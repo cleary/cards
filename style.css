@@ -266,12 +266,12 @@ article.full .look {
 }
 
 article.intro .look {
-    width: 50%;
+    width: 30%;
 }
 
 article.full .look {
     position: fixed;
-    width: 50%;
+    width: 30%;
 }
 
 article .look img {
@@ -279,16 +279,16 @@ article .look img {
 }
 
 article.intro .read {
-    width: 50%;
+    width: 70%;
     float: left;
-    margin-left: 50%;
+    margin-left: 30%;
     padding-top: 60px;
 }
 
 article.full .read {
-    width: 50%;
+    width: 70%;
     float: left;
-    margin-left: 50%;
+    margin-left: 30%;
     padding: 60px 0 40px;
 }
 
